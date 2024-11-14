@@ -1,7 +1,7 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQG25IWIn6Hzqw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722414993108?e=1736985600&v=beta&t=PPIA8eHORJJDxofTF-Ycv2kmVMB6iGnjHmNj7PbUzjY" alt="banner">
+![Header](./your-header-image-name.png)
 <h1 align="center">Hi 👋, I'm Vineet Singh</h1>
 <h3 align="center">A passionate developer from India with expertise in iOS development using Swift and the iOS SDK, as well as proficiency in the MERN stack (MongoDB, Express.js, React.js, Node.js). Skilled in C, C++, Java, Python, and JavaScript, with experience in database management and API development. Committed to creating innovative and user-friendly software solutions across platforms.</h3>
-<img align="right" width="400" src = "https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="coding">
+<img align="right" width="400" src = "https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="coding" border-radius="50">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineetsingh013&label=Profile%20views&color=0e75b6&style=flat" alt="vineetsingh013" /> </p>
