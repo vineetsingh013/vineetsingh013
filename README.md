@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vineet Singh</h1>
 <h3 align="center">A passionate developer from India with expertise in iOS development using Swift and the iOS SDK, as well as proficiency in the MERN stack (MongoDB, Express.js, React.js, Node.js). Skilled in C, C++, Java, Python, and JavaScript, with experience in database management and API development. Committed to creating innovative and user-friendly software solutions across platforms.</h3>
-<img align="right" src = "https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt="coding">
+<img align="right" width=400 src = "https://giphy.com/gifs/solturo-tech-technology-solturocom-qMGOIRnDWIUUM4htkD" alt="coding">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineetsingh013&label=Profile%20views&color=0e75b6&style=flat" alt="vineetsingh013" /> </p>
