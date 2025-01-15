@@ -1,11 +1,10 @@
 ![logo](https://github.com/vineetsingh013/vineetsingh013/blob/main/github-header-image.png)
-/* <h1 align="center">Hi 👋, I'm Vineet Singh</h1> */
 <h3 align="center">A passionate developer from India with expertise in iOS development using Swift and the iOS SDK, as well as proficiency in the MERN stack (MongoDB, Express.js, React.js, Node.js). Skilled in C, C++, Java, Python, and JavaScript, with experience in database management and API development. Committed to creating innovative and user-friendly software solutions across platforms.</h3>
 <!-- <img align="right" width="400" src = "https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="coding" border-radius:50%> -->
-<img align="right" width="400" height="400" src="[https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966](https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)" alt="coding" style="border-radius: 50%; object-fit: cover;">
-
-
-
+<div style="display: flex; justify-content: space-between; align-items: center;">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJjNjBkY3Nwc2QzNGMweWQxanR0YmFiMHUzdTNmMmE4OWk1Y3NsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif">
+<img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" height = "400" width = "400">
+</div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineetsingh013&label=Profile%20views&color=0e75b6&style=flat" alt="vineetsingh013" /> </p>
